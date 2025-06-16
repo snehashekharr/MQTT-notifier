@@ -27,21 +27,6 @@
 - **Maven**
 - **IntelliJ IDEA**
 
-## *Project Structure
-mqtt-notifier/
-├── src/
-│ └── main/
-│ └── java/
-│ └── com/
-│ └── mqttdemo/
-│ └── mqttnotifier/
-│ ├── MqttNotifierApplication.java
-│ └── [Your Service Classes]
-│
-├── resources/
-│ └── application.properties
-│
-├── pom.xml
 
 ## 🚀 Running the Project
 
